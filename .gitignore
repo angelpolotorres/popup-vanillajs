@@ -1,2 +1,6 @@
-/.vscode
-.DS_store
+### VisualStudioCode ###
+.vscode/*      
+.vscode/**/*
+
+### Mac Files ###
+DS_store
