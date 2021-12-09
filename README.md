@@ -1,10 +1,12 @@
 # Popup Vanilla Js
 
-Popup creado solo con vanilla js y usando css animation
+Popup created only with vanilla js and animation css
+
+![image](https://github.com/angelpolotorres/popup-vanillajs/blob/main/icons/popup-gif-readme.gif)
 
 ### Installation
 
-Simplemente ejecutar index.html en un navegador
+Run index.html in a browser and test it :)
 
 ### License
 
