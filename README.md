@@ -1,6 +1,6 @@
-# Popup Vanilla Js 💬 · [![CodeFactor](https://www.codefactor.io/repository/github/angelpolotorres/popup-vanillajs/badge/main)](https://www.codefactor.io/repository/github/angelpolotorres/popup-vanillajs/overview/main) · [Live version 🖥](https://angelpolotorres.github.io/popup-vanillajs.github.io/)
+# 💬 Popup Vanilla Js · [![CodeFactor](https://www.codefactor.io/repository/github/angelpolotorres/popup-vanillajs/badge/main)](https://www.codefactor.io/repository/github/angelpolotorres/popup-vanillajs/overview/main)
 
-Popup 💬 with variable content created only with vanilla js and animation css
+Popup with variable content created only with vanilla js and animation css. [Live version 🖥](https://angelpolotorres.github.io/popup-vanillajs.github.io/)
 
 ![image](https://github.com/angelpolotorres/popup-vanillajs/blob/main/icons/popup-gif-readme.gif)
 
