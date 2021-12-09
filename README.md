@@ -1,12 +1,16 @@
 # Popup Vanilla Js · [![CodeFactor](https://www.codefactor.io/repository/github/angelpolotorres/popup-vanillajs/badge/main)](https://www.codefactor.io/repository/github/angelpolotorres/popup-vanillajs/overview/main)
 
-Popup created only with vanilla js and animation css
+Popup with variable content created only with vanilla js and animation css
 
 ![image](https://github.com/angelpolotorres/popup-vanillajs/blob/main/icons/popup-gif-readme.gif)
 
+### Background
+
+The intention of this project is to create a popup that changes content according to the button we press. I didn't want to use reactive frameworks, just html, css and vanilla js :)
+
 ### Installation
 
-Run index.html in a browser and test it :)
+Run index.html with a browser and test it :)
 
 ### License
 
