@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Pop ups</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <main>
+			<button class="open-popup primary-button messageWarn" id="messageWarn">¡Cuidado!</button>
+      <button class="open-popup primary-button messageOk" id="messageOk">¡Todo ok!</button>
+      <button class="open-popup primary-button messageError" id="messageError">¡Error!</button>
+
+      <div class="popup-wrapper hide">
+        <div class="popup">
+          <button class="close-popup">
+						<img class="close-icon" src="icons/close.svg" alt="">
+					</button>
+					<!-- Contenido pop up OK -->
+						<div class="popup-content-ok">
+							<div class="popup-content">
+								<div class="content-icon">
+									<img class="check-icon" src="icons/check.svg" alt="">
+								</div>
+								<div class="title">¡Vamos!</div>
+								<div class="subtitle">Todo ha salido bien :)</div>
+								<div class="options">
+									<button class="primary-button close-function">Cerrar Pestaña</button>
+								</div>
+							</div>						
+						</div>
+					<!-- Contenido pop up WARN -->
+						<div class="popup-content-warn">
+							<div class="popup-content">
+								<div class="content-icon">
+									<img class="check-icon" src="icons/warn.svg" alt="">
+								</div>
+								<div class="title">¡Cuidado!</div>
+								<div class="subtitle">No podrás volver atrás</div>
+								<div class="options">
+									<button class="primary-button close-function">Borrar</button>
+									<button class="secondary-button close-function">Cancelar</button>
+								</div>
+							</div>						
+						</div>
+					<!-- Contenido pop up ERROR -->
+						<div class="popup-content-error">
+							<div class="popup-content">
+								<div class="content-icon">
+									<img class="check-icon" src="icons/error.svg" alt="">
+								</div>
+								<div class="title">Upss</div>
+								<div class="subtitle">Algo ha pasado</div>
+							</div>						
+						</div>
+					</div>
+        </div>
+      </div>
+  
+    </main>
+
+    <script src="scripts.js"></script>
+  </body>
+</html>
