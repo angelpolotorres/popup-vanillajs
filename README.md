@@ -1,4 +1,4 @@
-# Popup Vanilla Js
+# Popup Vanilla Js · [![CodeFactor](https://www.codefactor.io/repository/github/angelpolotorres/popup-vanillajs/badge/main)](https://www.codefactor.io/repository/github/angelpolotorres/popup-vanillajs/overview/main)
 
 Popup created only with vanilla js and animation css
 
